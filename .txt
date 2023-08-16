@@ -1,0 +1,22 @@
+
+-Login
+
+-Inserir conta
+
+-Alterar conta
+
+-Organizando locators
+
+-Criando comandos
+
+-Comandos de conta
+
+-Inserir conta repetida
+
+-Inserir movimentação
+
+-Saldo
+
+-Remover movimentação
+
+-Gerenciamento de massa
